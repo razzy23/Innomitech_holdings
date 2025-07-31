@@ -48,20 +48,18 @@
     <div class="main-banner" id="top">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-6">
+            <div class="col-lg-6">
                     <div class="left-content">
                         <div class="thumb">
-                            <div class="left-image-container">
-                                <img src="assets/images/left-banner-image.jpg" class="left-banner-image" alt="">
+                            <div class="inner-content">
                                 <div class="overlay"></div>
-                                <div class="inner-content">
-                                    <h4>We Are Innomitech</h4>
-                                    <span>For all your automotive, engineering <br/>and agricultural requirements</span>
-                                    <div class="main-border-button">
-                                        <a href="#contact-us">Get in touch!</a>
-                                    </div>
+                                <h4>We Are Innomitech</h4>
+                                <span>For all your automotive, engineering <br/>and agricultural requirements</span>
+                                <div class="main-border-button">
+                                    <a href="#contact-us">Get in touch!</a>
                                 </div>
                             </div>
+                            <img src="assets/images/left-banner-image.jpg" alt="">
                         </div>
                     </div>
                 </div>
