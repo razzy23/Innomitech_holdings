@@ -1590,10 +1590,29 @@ Products Page
 --------------------------------------------- 
 */
 
+.solar-header {
+  background-image: url(../images/products-page-heading-solar.jpg);
+}
+
+.ev-header {
+  background-image: url(../images/products-page-heading-ev.jpg);
+}
+
+.car-header {
+  background-image: url(../images/products-page-heading-car.jpg);
+}
+
+.agri-header {
+  background-image: url(../images/products-page-heading-agri.jpg);
+}
+
+.engi-header {
+  background-image: url(../images/products-page-heading-engi.jpg);
+}
+
 .page-heading {
   margin-top: 160px;
   margin-bottom: 30px;
-  background-image: url(../images/products-page-heading.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
